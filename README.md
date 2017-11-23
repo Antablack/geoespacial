@@ -30,4 +30,4 @@ SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO"; SET AUTOCOMMIT = 0; START TRANSACTION; S
 4.then entry to folder "client" and execute "npm install && npm start" 
 
 
-5.after you going to http://localhost:4200 in of browser
+5.after open http://localhost:4200 in your browser
